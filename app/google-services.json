@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932147270241",
+    "firebase_url": "https://chatwithfriends-1a3b6.firebaseio.com",
+    "project_id": "chatwithfriends-1a3b6",
+    "storage_bucket": "chatwithfriends-1a3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932147270241:android:178d4865775a0e2d",
+        "android_client_info": {
+          "package_name": "sonu.kumar.chatwithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932147270241-jikh0rkkcekkmm7vj041du6a3g2mqhoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sonu.kumar.chatwithfriends",
+            "certificate_hash": "a6f9aaca80aaf9210e29a514e00289f21f13f259"
+          }
+        },
+        {
+          "client_id": "932147270241-5g69emq3cktmmvkaar1nhbt7urba98aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFSMFGZu9bZs4v4q67TPjyflGY77pTeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932147270241-5g69emq3cktmmvkaar1nhbt7urba98aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
